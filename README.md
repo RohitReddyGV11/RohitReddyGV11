@@ -36,9 +36,7 @@
 ---
 
 ## 📂 Featured Projects  
-🔹 [Business Insights 360](https://github.com/RohitReddyGV11/Business_Insights_360) – A Power BI dashboard for finance, sales, and marketing insights  
-🔹 Disease Prediction System – ML-based project for healthcare analytics *(coming soon)*  
-🔹 Smart Street Lights with Arduino – IoT project powered by solar & sensors  
+🔹 [Business Insights 360](https://github.com/RohitReddyGV11/Business_Insights_360) – A Power BI dashboard for finance, sales, and marketing insights   
 
 ---
 
@@ -51,7 +49,7 @@
 ## 🌐 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohitreddygv)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitreddygv11@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://rohitreddygv11.github.io/) *(coming soon)*  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://rohitreddygv11.github.io/GVRR_Portfolio/)
 
 ---
 ⭐️ From [Rohit Reddy](https://github.com/RohitReddyGV11)  
