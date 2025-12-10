@@ -43,8 +43,8 @@
 ---
 
 ## 📊 GitHub Stats  
-![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=RohitReddyGV11&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RohitReddyGV11&layout=compact&theme=radical)  
+![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=RohitReddyGV11&show_icons=true&theme=radical&v=1)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RohitReddyGV11&layout=compact&theme=radical&v=1)  
 ![Profile Views](https://komarev.com/ghpvc/?username=RohitReddyGV11&style=for-the-badge&color=blue)
 
 ---
