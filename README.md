@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on **Data Analytics & Visualization Projects**  
 - 🌱 Learning **Power BI, SQL, Python (Pandas, NumPy, Matplotlib, scikit-learn)**  
 - 📈 Interested in **Data Science, Business Intelligence, and Machine Learning**  
-- ⚡ Fun fact: I love cricket, exploring stocks 📉📈, and researching tech trends  
+- ⚡ Fun fact: I love cricket, video games, and tech gadgets 
 
 ---
 
@@ -27,22 +27,25 @@
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### ⚙️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
 ## 📂 Featured Projects  
 🔹 [Business Insights 360](https://github.com/RohitReddyGV11/Business_Insights_360) – A Power BI dashboard for finance, sales, and marketing insights   
-
+🔹 [AWS Based ETL Pipeline](https://github.com/RohitReddyGV11/AWS-Based-ETL-Pipeline-for-Careplus-Analytics) – A Power BI dashboard for finance, sales, and marketing insights 
 ---
 
 ## 📊 GitHub Stats  
 ![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=RohitReddyGV11&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RohitReddyGV11&layout=compact&theme=radical)  
+![Profile Views](https://komarev.com/ghpvc/?username=RohitReddyGV11&style=for-the-badge&color=blue)
 
 ---
 
